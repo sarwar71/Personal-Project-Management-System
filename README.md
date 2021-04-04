@@ -1,2 +1,2 @@
 # Personal-Project-Management-System
-The description will add soon...
+Developing the PPMS for keeping statistics about projects using spring boot, MySQL, and react.
